@@ -1,3 +1,3 @@
-git clone https://$GITHUB_TOKEN@github.com/Takanashi-Hikari/TEA-PROJECT
+git clone https://$GITHUB_TOKEN@github.com/vcyzteen/TEA-PROJECT
 cd TEA-PROJECT
-curl https://raw.githubusercontent.com/Takanashi-Hikari/myscripts/master/MASTER.sh | bash
+curl https://raw.githubusercontent.com/vcyzteen/myscripts/master/MASTER.sh | bash
