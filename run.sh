@@ -1,3 +1,3 @@
-git clone https://github.com/travarilo/proprietary_vendor_asus -b lineage-17.1
-cd proprietary_vendor_asus
-git push https://$GITHUB_TOKEN@github.com/vcyzteen/propertary-vendor-asus.git
+git clone https://github.com/travarilo/device_asus_X00T -b lineage-17.1
+cd device_asus_X00T
+git push https://$GITHUB_TOKEN@github.com/vcyzteen/device-asus-x00t.git
