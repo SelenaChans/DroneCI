@@ -1,3 +1,3 @@
-git clone https://$GITHUB_TOKEN@github.com/vcyzteen/TEA-PROJECT -b NORMAL
+git clone https://github.com/Tea-Kernel/Tea-Kernel-Lavender -b LAV-CAF
 cd TEA-PROJECT
-curl https://raw.githubusercontent.com/vcyzteen/myscripts/master/PROTON.sh | bash
+bash tea.sh
