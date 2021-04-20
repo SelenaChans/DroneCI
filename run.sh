@@ -1,3 +1,3 @@
-git clone https://github.com/Tea-Kernel/Tea-Kernel-Lavender -b LAV-CAF
-cd Tea-Kernel-Lavender
-bash tea.sh
+git clone https://$GITHUB_TOKEN@github.com/vcyzteen/TEA-PROJECT -b 42 
+cd TEA-PROJECT
+curl https://raw.githubusercontent.com/vcyzteen/myscripts/master/MASTER.sh | bash
